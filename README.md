@@ -10,13 +10,9 @@ A Python-based transaction analytics tool that decodes 6 months of UPI/bank stat
 
 ## 📸 Output Preview
 
-![SpendDNA Report Part 1](screenshot1.png)<img width="955" height="937" alt="Screenshot 2026-07-01 182200" src="https://github.com/user-attachments/assets/7e3cee28-9cd9-4ae6-be92-835ed2a4365b" />
-
-
-![SpendDNA Report Part 2](screenshot2.png)<img width="888" height="856" alt="Screenshot 2026-07-01 182222" src="https://github.com/user-attachments/assets/7e91f2cd-70b3-42ca-870a-523eb7e45cc0" />
-
-![SpendDNA Report Part 3](screenshot3.png)!<img width="933" height="888" alt="Screenshot 2026-07-01 182244" src="https://github.com/user-attachments/assets/e9668dde-2e7e-447e-902e-19b618826e3b" />
-
+![SpendDNA Report Part 1](screenshot1.png)
+![SpendDNA Report Part 2](screenshot2.png)
+![SpendDNA Report Part 3](screenshot3.png)!
 
 
 
